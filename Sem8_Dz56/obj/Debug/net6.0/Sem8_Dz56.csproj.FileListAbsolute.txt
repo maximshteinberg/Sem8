@@ -1,0 +1,15 @@
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\bin\Debug\net6.0\Sem8_Dz56.exe
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\bin\Debug\net6.0\Sem8_Dz56.deps.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\bin\Debug\net6.0\Sem8_Dz56.runtimeconfig.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\bin\Debug\net6.0\Sem8_Dz56.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\bin\Debug\net6.0\Sem8_Dz56.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\refint\Sem8_Dz56.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\Sem8_Dz56.genruntimeconfig.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8_Dz56\obj\Debug\net6.0\ref\Sem8_Dz56.dll

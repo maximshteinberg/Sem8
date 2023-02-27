@@ -1,0 +1,15 @@
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\bin\Debug\net6.0\Sem8.exe
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\bin\Debug\net6.0\Sem8.deps.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\bin\Debug\net6.0\Sem8.runtimeconfig.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\bin\Debug\net6.0\Sem8.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\bin\Debug\net6.0\Sem8.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\refint\Sem8.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\Sem8.genruntimeconfig.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Lesson7\Sem8\obj\Debug\net6.0\ref\Sem8.dll
